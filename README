@@ -1,0 +1,8 @@
+host-solidity:
+
+Tutorial Followed:
+1. https://www.youtube.com/watch?v=VAVWeRNkbvI
+
+Steps to get started:
+1. npm install
+2. truffle compile
